@@ -144,19 +144,28 @@ To make the model work, just run the main.py script. This sets up a Flask app th
 
 
 **happy expression detected on video data**
+
 ![happy](https://i.ibb.co/kJT8QhM/happy3.png)
 
 **sad facial expression detected on video data**
+
 ![sad](https://i.ibb.co/LtWyQrj/sad.png)
 
 **angry expression detected on video data**
+
 ![angry](https://i.ibb.co/qyKgRZt/angry.png)
 
 **surprise facial expression detected on video data**
+
 ![suprise](https://i.ibb.co/dJJs31h/suprise.png)
 
 
 **Disgust facial expression detected on video data**
+
 ![Disgust](https://i.ibb.co/TkRDdSZ/disgust.png)
 
+### *To use webcam, open camera.py and change line 11 to:*
+```bash
+    self.video = cv2.VideoCapture(0)
 
+```
