@@ -3,7 +3,7 @@
 
 Welcome to my GitHub repository for the "Real-time Facial Expression Recognition." project! This project is a hands-on exploration of facial recognition technology, employing convolutional neural networks (CNN) implemented in Keras to swiftly and accurately identify and classify facial expressions in real-time. The dataset used comprises 48x48 pixel grayscale images of faces, each associated with one of seven emotions (Angry, Disgust, Fear, Happy, Sad, Surprise, Neutral). The CNN is trained to discern distinctive facial features and patterns crucial for emotion classification. OpenCV is integrated for automatic face detection in images, enabling the drawing of bounding boxes around recognized faces. Once trained, the CNN serves model predictions directly to a web interface, facilitating real-time facial expression recognition.
 
-![architecture ]([https://i.ibb.co/VtCHBCS/summary.png](https://github.com/irtika98/Realtime-Facial-expression-recognition/blob/master/arch.png))
+![architecture ](https://github.com/irtika98/Realtime-Facial-expression-recognition/blob/master/arch.png)
 
 
 
